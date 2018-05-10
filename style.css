@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+}
+header{
+	background-color: #563d7c;
+	justify-content: space-between;
+	cursor: pointer;
+	
+
+	
+}
+ul{
+	display: flex;
+	justify-content: center;
+}
+button{
+	background-color: white;
+	color: #563d7c;
+-	
+	
+}
+#logo{
+	color: white;
+	padding-left: 0px;
+
+
+}
+.nav:hover{
+	color: #b2e6ff;
+}
+button:hover{
+	color: #b2e6ff;
+}
+p{
+	display: flex;
+}
+h1{
+	color: blue;
+}
